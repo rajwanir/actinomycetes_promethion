@@ -1,0 +1,63 @@
+Cyclothiazomycin MEKELVLDLADLSVDELDVLPTSPGAGLESINVGHAMVEIGA SNCTSTGTPASCCSCCCC C59 H99 N19 O27 S7 (cyclothiazomycin)
+B															SNCTSRGTPASCCSCCCC C61 H105 N22 O26 S7/1784.554 (modified = C61H69N21O13S7)
+C															SNCTSKGSPASCCSCCCC C60 H103 N20 O26 S7 (modified = C60H67N19O13S7)
+GA3008 		   = MDFTLELSDLSVDQLDVLPVNRGGGLEAINTGHGMVEIGA   SNCTSTSSPASCCSCCCC C59 H100 N19 O28 S7
+
+
+Cyclothiazomycin [CORRECT]
+3x thiozoline (-H20) 
+3x thiozole (-H20 - H2)
+4x dehydrated (-H20)
+---------- -H26 O10
+pyridine (-H20, -NH2) - 3x
+1x thioether linkage (-H2)
+
+C59 H100 N19 O27 S7 (unmodified)
+C59 H64 N18 O14 S7 (expected -H36 O13)
+
+C59 H100 N19 O28 S7 (unmodified GA3008)   
+C59 H64 N18 O15 S7 (same changes, 1488.284361) 
+C59 H62 N18 O14 S7 (one more dehydration or thiozoline,1470.273796)
+C59 H60 N18 O14 S7 (one more thiozole formation,1468.258146 )
+
+
+Thiomuracin
+SCNCFCYICCSCSSA C61 H93 N16 O22 S6 (C59 H50 N14 O12 S6, -H36) 
+6x Azole (-H20 - H2)
+2x dehydrated (-H20)
+1x pyridine (-H20, -NH2 , -2 H20) 
+additional tailoring (thiazole methylation, phenylalanine β-hydroxylation and epoxidation of the isoleucine side chain)
+
+
+Lactazole [CORRECT]
+SWGSCSCQASSSCAQP C61 H94 N19 O25 S3 (C61 H66 N18 O16 S3, expected -H28 -O9)
+4x Azole (-H20 - H2)
+2x dehydrated (-H20)
+pyridine (-H20, -NH2)
+------- -H24 O7 (remaining 2x H2O - pyridine formation occurs at two dehydrated serines)
+
+
+thiocillin
+SCTTCVCTCSCCTT (C49 H87 N14 O22 S6, modified - C48H49N13O10S6)
+6x Azole (-H20 - H2)
+2x dehydration (-H20)
+pyridine (-H20, -NH2 , -2 H20) 
+
+GE2270A (C56H55N15O10S6)
+SCNCVCGFCCSCSPSA
+
+
+lactocillin (C51H45N13O10S7)
+SCTTCTCCCSCCA
+4x Azole (-H20 - H2)
+1x dehydration (-H20)
+free carboxylic acid at the C terminus
+indole-3-carboxylic acid moiety 
+
+nocathiacin 
+SCTTCECSCSCSS
+indole
+
+
+C-terminus
+carboxylate (-CH3OH)
